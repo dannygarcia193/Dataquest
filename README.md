@@ -15,3 +15,8 @@ The analyses as hypothetically requested by the institutes was mainly focused on
 > **Further analysis should dive deeper into the reasons for high dissatisfaction levels for older and experience employees, in particular for male DETE employee and female TAFE employees. Lastly, the DETE institute should also investigate into why their reported overall level of dissatisfaction is much higher when compared to the TAFE institute.**
 
 *Note: This project is part of Data Quest's Data Science track*
+## **Figures**
+<img src="https://github.com/dannygarcia193/Survey_Analysis/blob/master/images/Screenshot_127.png" width="70%" height="30%">
+<img src="https://github.com/dannygarcia193/Survey_Analysis/blob/master/images/Screenshot_128.png" width="70%" height="30%">
+<img src="https://github.com/dannygarcia193/Survey_Analysis/blob/master/images/Screenshot_129.png" width="70%" height="30%">
+<img src="https://github.com/dannygarcia193/Survey_Analysis/blob/master/images/Screenshot_130.png" width="70%" height="30%">
